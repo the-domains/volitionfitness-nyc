@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[VOLITIONFITNESS.NYC]]></title>
         <description><![CDATA[VOLITIONFITNESS.NYC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/volitionfitness-nyc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 16:04:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 16:04:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/volitionfitness-nyc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3abea49d-c1fd-408f-ab50-25e2831cf9b9.jpg">]]></description>
-            <link>undefined273786af-2cf8-430e-b1bd-09c7eaeedc7e/index.html</link>
+            <link>https://thegrid.ai/volitionfitness-nyc/273786af-2cf8-430e-b1bd-09c7eaeedc7e/index.html</link>
             <guid isPermaLink="false">273786af-2cf8-430e-b1bd-09c7eaeedc7e</guid>
-            <pubDate>Sun, 13 Mar 2016 16:03:22 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2016 16:03:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
